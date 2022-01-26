@@ -1,2 +1,6 @@
 # MostIssues
-Trying to be the repo with the most issues in all of GitHub!
+Trying to be the repo with the most:
+- issues
+- labels
+- collaborators
+In all of GitHub!
